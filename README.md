@@ -1,1 +1,1 @@
-All-Range Mode
+All Range Mode
